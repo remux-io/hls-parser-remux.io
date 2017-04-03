@@ -5,7 +5,7 @@
   },
   "version": "1.0.0",
   "description": "hls parser",
-  "main": "index.js"
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/remux-io/hls-parser-remux.io.git"
