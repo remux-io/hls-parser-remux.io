@@ -1,5 +1,5 @@
 {
-  "name": "hls-parser.remux.io",
+  "name": "hls-parser-remux.io",
   "preferGlobal": true,
   "engines": {
     "node": ">=6.0"
