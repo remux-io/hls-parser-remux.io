@@ -1,0 +1,44 @@
+{
+  "name": "hls-parser.remux.io",
+  "preferGlobal": true,
+  "engines": {
+    "node": ">=6.0"
+  },
+  "directories": {
+  },
+  "version": "0.0.1",
+  "description": "hls parser",
+  "main": "index.js",
+  "bin": {
+  },
+  "scripts": {
+  },
+  "repository": {
+  },
+  "homepage": "https://www.remux.io",
+  "author": "team.remux.io",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "os": [
+    "win32",
+    "linux"
+  ],
+  "cpu": [
+    "x64",
+    "x86",
+    "arm"
+  ],
+  "keywords": [
+    "hls",
+    "parser"
+  ],
+  "devDependencies": {
+  },
+  "runtime": {
+    "framework": "node",
+    "version": "6.10.1",
+    "js-flags": "--use_strict",
+    "ignoreFlags": true
+  }
+}
